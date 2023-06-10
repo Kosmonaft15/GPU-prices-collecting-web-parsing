@@ -1,5 +1,3 @@
-using System.Net.Http;
-using System.Security.Policy;
 using File = System.IO.File;
 
 namespace Сбор_цен_GPU
